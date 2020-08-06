@@ -1,0 +1,12 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/PadlockApp/padlock-ui.git
+[submodule "sol-contracts"]
+	path = sol-contracts
+	url = https://github.com/PadlockApp/sol-contracts.git
+[submodule "secret-vault"]
+	path = secret-vault
+	url = https://github.com/PadlockApp/SecretVault.git
+[submodule "subgraph"]
+	path = subgraph
+	url = https://github.com/PadlockApp/padlock-subgraph.git
