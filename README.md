@@ -1,5 +1,5 @@
 # Padlock HackFS Submission
-A collection of all repos used in our HackFS submission project.
+A collection of all repos used in our HackFS project submission
 
 ## Description
 Helping artists monetize creative work via the decentralized web. Users can buy or sell access to exclusive content hosted on IPFS and Filecoin. The app will generate unique encryption and decryption keys and store them in the encrypted state of a privacy-preserving smart contract on Secret Network.
