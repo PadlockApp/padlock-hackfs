@@ -6,7 +6,7 @@ Helping artists monetize creative work via the decentralized web. Users can buy 
 - Subgraph
  https://thegraph.com/explorer/subgraph/padlockapp/padlock
 - .Crypto Domain (needs Unstoppable Extension installed)
-https://testdomain071.crypto
+https://padlock.crypto
 
 ## How It's Made
 - Secret Network for key generation for content encryption/decryption
