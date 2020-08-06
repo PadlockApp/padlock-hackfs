@@ -18,3 +18,20 @@ App is built using Typescript-based React w/ Redux Saga for state management. Et
 
 ## HackFS Showcase
 https://hack.ethglobal.co/showcase/padlock-recOwF5kjzFYLkYkO
+
+## Running The App
+
+1. Install MetaMask and switch network to Ropsten.
+2. Allow insecure content (the app uses a mix of http & https API endpoints).
+- If you're using Chrome, go to "Site settings" by right-clicking the https lock icon.
+- For "Insecure content", choose "Allow".
+
+3. Add this line to your /etc/hosts file for DNS resolution:
+`45.76.11.245 secret.padlockdev.org faucet.padlockdev.org ui.padlockdev.org`
+
+4. Go to each of the following URLs and accept the certs.
+- https://secret.padlockdev.org
+- https://faucet.padlockdev.org
+- https://ui.padlockdev.org
+
+5. You need to be whitelisted by the Secret Network contract to be able to publish, easiest way to do that at the moment is to buy an item using our fake test DAI token.
