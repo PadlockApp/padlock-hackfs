@@ -17,7 +17,7 @@ https://padlock.crypto
 App is built using Typescript-based React w/ Redux Saga for state management. Ethereum is used as the payment and data layer. There’s also the oracle that’s watching purchases and whitelisting buyers on the Padlock Secret Network contract as well as minting an NFT for each user purchase which acts as a receipt.
 
 ## HackFS Showcase
-https://hack.ethglobal.co/showcase/padlock-recOwF5kjzFYLkYkO
+https://showcase.ethglobal.com/hackfs/padlock
 
 ## Running The App
 
